@@ -1,5 +1,6 @@
-fx_version 'bodacious'
-game 'gta5'
+author 'FL45H#5053'
+
+description 'sn-v2-3dme - /me command'
 
 ui_page "html/index.html"
 
