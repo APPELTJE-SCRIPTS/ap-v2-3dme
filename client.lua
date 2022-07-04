@@ -1,5 +1,5 @@
-RegisterNetEvent("sn:3dme")
-AddEventHandler("sn:3dme", function(text, source)
+RegisterNetEvent("ap:3dme")
+AddEventHandler("ap:3dme", function(text, source)
     local playerId = GetPlayerFromServerId(source)
     local isDisplaying = true
     Citizen.CreateThread(function()
