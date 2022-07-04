@@ -1,6 +1,6 @@
-author 'FL45H#5053'
+author 'Appeltje#5053'
 
-description 'sn-v2-3dme - /me command'
+description 'ap-v2-3dme - /me command'
 
 ui_page "html/index.html"
 
